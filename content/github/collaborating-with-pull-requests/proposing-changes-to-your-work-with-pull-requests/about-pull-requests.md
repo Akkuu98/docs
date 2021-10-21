@@ -73,3 +73,4 @@ The compare and pull request pages use different methods to calculate the diff f
 - "[About branches](/articles/about-branches)"
 - "[Commenting on a pull request](/articles/commenting-on-a-pull-request)"
 - "[Closing a pull request](/articles/closing-a-pull-request)"
+}
